@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Notes App</string>
+    <string name="action_settings">Settings</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id dapibus ex. Ut tempor vestibulum consequat. Vivamus non rutrum enim, a lacinia odio. Nullam laoreet, mauris et tincidunt laoreet, est lorem rhoncus nibh, ac vulputate augue velit quis erat. Etiam laoreet mi sed est fermentum feugiat. Aenean sodales lectus non pellentesque blandit. Pellentesque tincidunt semper commodo. Morbi eu condimentum risus. Aliquam aliquam libero arcu, in feugiat diam bibendum tempus. Vivamus venenatis leo eu dignissim accumsan. Nullam sit amet ullamcorper turpis, vel consectetur lectus. Morbi nec consequat sapien. Pellentesque eu nisl nec magna suscipit bibendum. Quisque euismod tellus et ex molestie volutpat.</string>
+</resources>
